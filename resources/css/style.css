@@ -1,4 +1,4 @@
-body{
+body {
     text-align: center;
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -8,12 +8,12 @@ body{
     font-size: 50px;
     color: white;
 }
-.Middle_header{
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+.Middle_header {
     font-family: Verdana;
     font-weight: 300px;
     font-size: 42px;
-}
-p{
-    color: aquamarine;
-    font-size: 16px;
 }
